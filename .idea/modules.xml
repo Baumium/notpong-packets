@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets_main.iml" group="com.dapasta.notpong.packets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dapasta.notpong.packets_test.iml" group="com.dapasta.notpong.packets" />
+    </modules>
+  </component>
+</project>

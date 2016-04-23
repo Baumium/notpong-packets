@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="com.dapasta.notpong.packets:jar">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/com_dapasta_notpong_packets_jar</output-path>
+    <root id="archive" name="com.dapasta.notpong.packets.jar">
+      <element id="module-output" name="com.dapasta.notpong.packets_main" />
+    </root>
+  </artifact>
+</component>
