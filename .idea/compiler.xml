@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.dapasta.notpong.packets_main" target="1.5" />
-      <module name="com.dapasta.notpong.packets_test" target="1.5" />
+      <module name="com.dapasta.notpong.packets_main" target="1.7" />
+      <module name="com.dapasta.notpong.packets_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
