@@ -10,4 +10,11 @@ public class CreateGameRequest extends Packet {
     // Game info
     public String gameName;
     public int gameSize;
+
+    // Game specs
+    public float fieldSize;
+    public float ballRadius;
+    public float ballSpeed;
+    public float paddleWidth;
+    public float paddleHeight;
 }
